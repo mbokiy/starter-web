@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 qweqwe
 
 ## How to contribute
+
+deployment
