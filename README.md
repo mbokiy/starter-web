@@ -16,7 +16,7 @@ qweqwe
 
 ## How to contribute
 
-deployment
+givememoney
 
 ## Copyright
 
