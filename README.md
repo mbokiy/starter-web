@@ -17,3 +17,7 @@ qweqwe
 ## How to contribute
 
 deployment
+
+## Copyright
+
+yep
