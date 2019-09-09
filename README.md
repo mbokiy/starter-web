@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 Adding a line for a rebase example
 then more changes from myfeature branch too
+update after stash
 
 ## Introduction
 
