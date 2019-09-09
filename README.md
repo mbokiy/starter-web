@@ -22,4 +22,4 @@ givememoney
 
 ## Copyright
 
-yep
+all rights reserved
